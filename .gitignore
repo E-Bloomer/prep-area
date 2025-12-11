@@ -1,0 +1,30 @@
+# Node / web build output
+node_modules/
+dist/
+dev-dist/
+.vite/
+coverage/
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+tsconfig.tsbuildinfo
+
+# Editor / OS
+.DS_Store
+.vscode/
+.history
+
+# Capacitor / Android generated
+android/.gradle/
+android/.idea/
+android/local.properties
+android/build/
+android/app/build/
+android/app/release/
+android/app/src/main/assets/
+android/capacitor-cordova-android-plugins/
+
+# Packages
+*.apk
+*.aab

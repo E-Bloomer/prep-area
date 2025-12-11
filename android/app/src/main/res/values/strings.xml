@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Prep Area</string>
+    <string name="title_activity_main">Prep Area</string>
+    <string name="package_name">com.dicemasters.wrapper</string>
+    <string name="custom_url_scheme">com.dicemasters.wrapper</string>
+</resources>

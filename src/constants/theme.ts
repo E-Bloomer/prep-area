@@ -1,0 +1,11 @@
+export const THEME_BG = '#d3dae5' // heather 50
+export const THEME_SURFACE = '#e9ecf0' // heather 100
+export const THEME_BUTTON = '#d3dae5' // slightly deeper tone for interactive surfaces
+export const THEME_SURFACE_ALT = 'rgba(233, 236, 240, 0.92)' // heather 100 with softness
+export const THEME_BORDER = 'rgba(159, 173, 187, 0.45)' // heather 400 with transparency
+export const THEME_ACCENT = '#76839a' // heather 600
+export const THEME_ACCENT_HOVER = '#8897a9' // heather 500
+export const THEME_ACCENT_ACTIVE = '#6a758b' // heather 700
+export const THEME_TEXT = '#30343b' // heather 950
+export const THEME_TEXT_MUTED = '#5a6173' // heather 800
+export const THEME_WARNING = '#d97706' // complementary amber for destructive actions
